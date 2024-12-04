@@ -1,3 +1,7 @@
+![](https://img.shields.io/github/repo-size/DBWGLX/My_ONE.svg)
+![](https://img.shields.io/github/languages/code-size/DBWGLX/My_ONE.svg)
+![](https://img.shields.io/github/license/DBWGLX/My_ONE.svg)
+
 深圳大学考试答题纸
 
 (以论文、报告等形式考核专用)
