@@ -1,6 +1,6 @@
-![](https://img.shields.io/github/repo-size/DBWGLX/My_ONE.svg)
-![](https://img.shields.io/github/languages/code-size/DBWGLX/My_ONE.svg)
-![](https://img.shields.io/github/license/DBWGLX/My_ONE.svg)
+![REPO SIZE](https://img.shields.io/github/repo-size/DBWGLX/My_ONE.svg)
+![CODE SIZE](https://img.shields.io/github/languages/code-size/DBWGLX/My_ONE.svg)
+![License](https://img.shields.io/github/license/DBWGLX/My_ONE.svg)
 
 深圳大学考试答题纸
 
