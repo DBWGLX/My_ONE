@@ -1,6 +1,7 @@
 ![REPO SIZE](https://img.shields.io/github/repo-size/DBWGLX/My_ONE.svg)
 ![CODE SIZE](https://img.shields.io/github/languages/code-size/DBWGLX/My_ONE.svg)
 ![License](https://img.shields.io/github/license/DBWGLX/My_ONE.svg)
+![](https://img.shields.io/badge/%20SZU%20-8C0A41)
 
 深圳大学考试答题纸
 
